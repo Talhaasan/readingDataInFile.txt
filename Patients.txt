@@ -1,0 +1,14 @@
+Patients: 
+
+Patient Name: Ali
+Patient ID: 3
+Patient's attending doctor count: 4
+
+Patient Name: Mehmet
+Patient ID: 1
+Patient's attending doctor count: 5
+
+Patient Name: Ayse
+Patient ID: 2
+Patient's attending doctor count: 3
+

@@ -1,0 +1,37 @@
+Doctors: 
+
+Doctor Name: Ali
+Doctor Specialty: 3
+Doctor OfficeNumber: 4
+Doctor Age: 0
+
+Doctor Name: 
+Doctor Specialty: 
+Doctor OfficeNumber: 1878000396
+Doctor Age: -1
+
+Doctor Name: 
+Doctor Specialty: 
+Doctor OfficeNumber: 1878039440
+Doctor Age: 0
+
+Doctor Name: 
+Doctor Specialty: 
+Doctor OfficeNumber: 16059496
+Doctor Age: 1956527590
+
+Doctor Name: 
+Doctor Specialty: 
+Doctor OfficeNumber: 12
+Doctor Age: 16059488
+
+Doctor Name: 
+Doctor Specialty: 
+Doctor OfficeNumber: 1995269457
+Doctor Age: 8
+
+Doctor Name: 
+Doctor Specialty: 
+Doctor OfficeNumber: 1995588380
+Doctor Age: 6422268
+

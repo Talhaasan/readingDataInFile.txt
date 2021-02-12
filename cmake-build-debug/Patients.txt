@@ -1,0 +1,14 @@
+Patients: 
+
+Patient Name: 
+Patient ID: 1878000396
+Patient's attending doctor count: 8
+
+Patient Name: 
+Patient ID: 0
+Patient's attending doctor count: 15076448
+
+Patient Name: 
+Patient ID: 0
+Patient's attending doctor count: 12
+
